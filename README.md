@@ -16,8 +16,6 @@
 
 <br>
 
-Add mockup links here
-
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
@@ -29,16 +27,19 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ## License
+
 The project is distributed under the MIT License. See [LICENSE](Add path to License here) for more information.
 
 ## Author
+
 - [Ishaan Ohri](https://github.com/IshaanOhri)
 
 ## Tech Stacks / Tools used
 
 <p>
 <p>
-  Add links here
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=20>
 </p>
 </p>
 
