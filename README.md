@@ -26,7 +26,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## License
 
-The project is distributed under the MIT License. See [LICENSE](Add path to License here) for more information.
+The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/GitHub-Pages/blob/main/LICENSE) for more information.
 
 ## Author
 
