@@ -14,8 +14,6 @@
   Deploying a simple website on GitHub Pages with a custom domain
 </p>
 
-<br>
-
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
