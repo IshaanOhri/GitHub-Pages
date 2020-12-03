@@ -1,6 +1,5 @@
 <code>
-  <h1 align="center">GitHub-Pages</h1>
-  <h3 align="center">Tagline here</h3>
+  <h1 align="center">Deploy on GitHub-Pages</h1>
 </code>
 
 <div align="center">
