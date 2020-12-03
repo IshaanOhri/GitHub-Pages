@@ -1,12 +1,12 @@
 <code>
-  <h1 align="center">Title here</h1>
+  <h1 align="center">GitHub-Pages</h1>
   <h3 align="center">Tagline here</h3>
 </code>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Template?logo=github" hspace="5">
-  <img src="https://img.shields.io/github/license/IshaanOhri/Template" hspace="5">
-  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Template?logo=git">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/GitHub-Pages?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/GitHub-Pages" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/GitHub-Pages?logo=git">
 </div>
 
 <br>
