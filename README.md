@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  Add description here
+  Deploying a simple website on GitHub Pages with a custom domain
 </p>
 
 <br>
