@@ -38,8 +38,8 @@ The project is distributed under the MIT License. See [LICENSE](Add path to Lice
 
 <p>
 <p>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=10>
 </p>
 </p>
 
