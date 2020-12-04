@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  Deploying a simple website on GitHub Pages with a custom domain
+  Publishing a simple website on GitHub Pages with a custom domain
 </p>
 
 ## Contributing
