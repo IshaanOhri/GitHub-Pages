@@ -1,5 +1,5 @@
 <code>
-  <h1 align="center">Deploy on GitHub-Pages</h1>
+  <h1 align="center">Publish website on GitHub Pages</h1>
 </code>
 
 <div align="center">
