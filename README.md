@@ -14,6 +14,10 @@
   Publishing a simple website on GitHub Pages with a custom domain
 </p>
 
+<div align="center">
+  📝 <a href="https://medium.com/adg-vit/publish-website-on-github-pages-with-a-custom-domain-8e2c4aee55a0">Read Blog</a> 📝
+</div>
+
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
